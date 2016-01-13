@@ -1,3 +1,4 @@
+#This is all the QC measurements performed in the ATAC-seq data analysis used for the transfer report
 getwd ()
 setwd ("U:/PhD_U/Year_1/ATAC seq/Data Analysis/QC_plots/pipeline_output_all_samples_QC/correct_blood_bwa/")
 getwd ()
